@@ -1,6 +1,6 @@
-### Hi there! :wave:
+Hey there! :wave:
 
-**I am a full-stack software developer and industrial engineering student based in GTO., Mexico.**
+I am a full-stack software developer and industrial engineering student based in GTO., Mexico.
 
 NOW
 - :heavy_check_mark: Looking for opportunities
