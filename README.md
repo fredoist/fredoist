@@ -1,17 +1,22 @@
 Hey there! :wave:
 
-I am a full-stack software developer and industrial engineering student based in GTO., Mexico.
+I'm a full-stack software developer and industrial engineering student based in GTO., Mexico.
 
-NOW
+**NOW**
+
 - :heavy_check_mark: Looking for opportunities
 - :sparkles: Contributing to open source projects
 - :snowflake: Building digital products
 
-BIO
-- :man_student: Self-taught software developer since age 13
-- :globe_with_meridians: Prefer to work with serverless apps deployed on Edge
-- :toolbox: Using `Next.js`, `Vercel`, `Astro`, `Tailwind CSS`, `PlanetScale`
+**BIO**
 
-SOCIALS
-- [:bird: Twitter](https://twitter.com/fredoist)
-- [:briefcase: LinkedIn](https://www.linkedin.com/in/alfredogonzalezr)
+- :man_student: Self-taught software developer since age 13
+- :computer: Been interacting with computers since age 10
+- :toolbox: Preferred stack `Next.js`, `React`, `Tailwind CSS`, `Vercel`
+- :art: Occasionally I like to draw realistic portraits
+
+**SOCIALS**
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fredoist)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezr)
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://polywork.com/fredoist)
