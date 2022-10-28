@@ -4,16 +4,18 @@ I'm a full-stack software developer and industrial engineering student based in 
 
 **NOW**
 
-- :heavy_check_mark: Looking for opportunities
-- :sparkles: Contributing to open source projects
-- :snowflake: Building digital products
+- ✔️ Looking for opportunities
+- ✨ Contributing to open source projects
+- ❄️ Building digital products
+- 👨‍🔬 Experimenting with Web3
+- :astronaut: Contributing to Astro Docs.
 
 **BIO**
 
-- :man_student: Self-taught software developer since age 13
-- :computer: Been interacting with computers since age 10
-- :toolbox: Preferred stack `Next.js`, `React`, `Tailwind CSS`, `Vercel`
-- :art: Occasionally I like to draw realistic portraits
+- 👨‍🎓 Self-taught software developer since age 13
+- 💻 Been interacting with computers since age 10
+- 🧰 Preferred stack `Next.js`, `React`, `Tailwind CSS`, `Vercel`
+- 🎨 Used to draw anime and realistic portraits
 
 **SOCIALS**
 
