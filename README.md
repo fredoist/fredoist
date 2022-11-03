@@ -4,18 +4,17 @@ I'm a full-stack software developer and industrial engineering student based in 
 
 **NOW**
 
-- ✔️ Looking for opportunities
+- 🔎 Looking for opportunities
 - ✨ Contributing to open source projects
-- ❄️ Building digital products
+- ⚒️ Building digital products
 - 👨‍🔬 Experimenting with Web3
-- :astronaut: Contributing to Astro Docs.
+- 🧑‍🚀 Contributing to Astro Docs.
 
 **BIO**
 
-- 👨‍🎓 Self-taught software developer since age 13
-- 💻 Been interacting with computers since age 10
-- 🧰 Preferred stack `Next.js`, `React`, `Tailwind CSS`, `Vercel`
-- 🎨 Used to draw anime and realistic portraits
+- 👨‍🎓 Self-taught software developer
+- 🧰 Favorite dev stack `Next.js`, `React`, `Tailwind CSS`, `Vercel`
+- 👨‍🎨 Used to draw anime and realistic portraits
 
 **SOCIALS**
 
@@ -28,9 +27,13 @@ I'm a full-stack software developer and industrial engineering student based in 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@fredoist)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/fredoist)
 
-**SUPPORT MY WORK**
+**SUPPORT MY WORK, UNLOCK EXCLUSIVE FEATURES**
+
+By supporting my open source work and personal projects, you'll be granted access to special features such as early access to new projects, private access to repos, lifetime discounts on released products, and discord access*.
 
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/fredoist)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fredoist)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fredoist)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fredooer/5USD)
+
+*These grants are still work in progress.
