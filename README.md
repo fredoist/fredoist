@@ -7,7 +7,7 @@ I'm a full-stack software developer and industrial engineering student based in 
 - 🔎 Looking for opportunities
 - ✨ Contributing to open source projects
 - ⚒️ Building digital products
-- 👨‍🔬 Experimenting with Web3 (winner of two hackathons)
+- 👨‍🔬 Experimenting with Web3 ([winner](https://twitter.com/thirdweb/status/1590101360925495296) of two hackathons)
 - 🧑‍🚀 Contributing to Astro Docs
 
 **BIO**
