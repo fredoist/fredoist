@@ -4,15 +4,14 @@ I'm a full-stack software developer and industrial engineering student based in 
 
 **NOW**
 
-- 🔎 Looking for opportunities
+- 🔎 Looking for remote opportunities
 - ✨ Contributing to open source projects
 - ⚒️ Building digital products
 - 👨‍🔬 Experimenting with Web3 ([winner](https://twitter.com/thirdweb/status/1590101360925495296) of two hackathons)
-- 🧑‍🚀 Contributing to Astro Docs
 
 **BIO**
 
-- 👨‍🎓 Self-taught software developer
+- 🧑‍🚀 Self-taught software developer
 - 🧰 Favorite dev stack `Next.js`, `React`, `Prism`, `MongoDB`, `Tailwind CSS`, `Vercel`
 - 👨‍🎨 Used to draw anime and realistic portraits
 - 🧑‍🎓 B.Eng. in industrial engineering
