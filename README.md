@@ -12,7 +12,7 @@ I'm a full-stack software developer and industrial engineering student based in 
 **BIO**
 
 - 🧑‍🚀 Self-taught software developer
-- 🧰 Favorite dev stack `Next.js`, `React`, `Prism`, `MongoDB`, `Tailwind CSS`, `Vercel`
+- 🧰 Favorite dev stack `Next.js`, `React`, `Prisma`, `MongoDB`, `Tailwind CSS`, `Vercel`
 - 👨‍🎨 Used to draw anime and realistic portraits
 - 🧑‍🎓 B.Eng. in industrial engineering
 
