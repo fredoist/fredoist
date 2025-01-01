@@ -1,6 +1,6 @@
 Hey there! :wave:
 
-I'm a software developer and industrial engineer located in Mexico. I have worked on projects involving Blockchain technology and AI.
+I'm a software developer and industrial engineer based in Mexico. I have worked on projects involving Blockchain technology and AI.
 
 **NOW**
 
